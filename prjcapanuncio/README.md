@@ -65,8 +65,8 @@ Senha: Banco_21
 
 O sistema apresenta na Tela Principal um Menu na parte superior com as seguintes opções:
 - Cadastro --> Cadastro de Anúncios
-- Relatórios --> Por Intervalo de Tempo
-                    --> Por Cliente 
+- Relatórios --> Por Intervalo de Tempo (não implementado)
+             --> Por Cliente 
 - Ajuda --> Sobre
 - Opções -- > Sair
 
